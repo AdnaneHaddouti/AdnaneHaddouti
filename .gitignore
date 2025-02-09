@@ -1,1 +1,6 @@
 /README.md
+
+
+git add .gitignore
+git commit -m "Message de commit"
+git push -u origin main
