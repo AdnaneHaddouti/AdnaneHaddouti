@@ -1,0 +1,19 @@
+PUSH
+
+1.	Vérifier l'URL actuelle du dépôt distant :
+	git remote -v
+	git remote set-url origin https://github.com/AdnaneHaddouti/adnan.git
+2.	Ajoute tes modifications à l'index de Git
+	git add [fichier.txt]
+	git add [mon_dossier/]
+3.	New branch and déplace 
+	git checkout (-b) [Branch_test]
+	git checkout [main]
+4.	Fais un commit
+	git commit -m "Message de commit"
+5.	pousser cette branche sur le dépôt distant
+	git push -u origin [main]
+6.	Status de branch 
+
+
+CLONE
